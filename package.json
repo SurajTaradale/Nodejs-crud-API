@@ -1,0 +1,15 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "Node API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Suraj Taradale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
